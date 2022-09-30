@@ -54,19 +54,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923365628640'] //ur owner number
+global.vcardowner = ['923087609409'] //ur owner number
 global.ownername = "🦄 SHAHEEN OFFICIAL" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "SHAHEEN: OFFICIAL" //ur yt chanel name
+global.socialm = "GitHub: SHAHEEN" //ur github or insta name
 global.location = "Pakistan, Rahimyar, khanpur" //ur location
 
 //bot bomdy 
-global.owner = ['923365628640']
-global.ownertag = '923365628640' //ur tag number
+global.owner = ['923087609409']
+global.ownertag = '923087609409' //ur tag number
 global.botname = 'SHAHEEN OFFICIAL' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.linkz = "https://youtu.be/DLFzQCZFfP0" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/DLFzQCZFfP0" //ur website to be displayed
+global.botscript = 'https://github.com/shaheenyui/SHAHEEN?organization=shaheenyui&organization=shaheenyui' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "SHAHEEN OFFICIAL Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923365628640'] //ur premium numbers
+global.premium = ['923087609409'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
